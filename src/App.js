@@ -8,7 +8,7 @@ const App = () => {
     <div className="container">
       <h1>Welcome to Vanity Affairs</h1>
       <p>Podcast Built to Redefine Lives </p>
-      <button onClick="" type="submit" className="button1">Begin Your Journey</button>
+      <button onClick="" type="submit" className="button1">Begin Your Journey Here</button>
     </div>
   </>
 )
